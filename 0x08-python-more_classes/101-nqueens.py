@@ -1,4 +1,3 @@
-6-rectangle.py
 #!/usr/bin/python3
 """Solves the N-queens puzzle.
 
