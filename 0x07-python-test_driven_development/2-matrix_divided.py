@@ -1,4 +1,3 @@
-2-matrix_divided.py
 #!/usr/bin/python3
 """Defines a matrix division function."""
 

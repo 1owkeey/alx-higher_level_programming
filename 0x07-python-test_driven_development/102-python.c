@@ -1,4 +1,3 @@
-102-python.c
 #include "Python.h"
 
 /**
