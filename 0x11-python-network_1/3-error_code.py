@@ -15,4 +15,8 @@ if __name__ == "__main__":
             print(response.read().decode("ascii"))
     except urllib.error.HTTPError as e:
         print("Error code: {}".format(e.code))
+<<<<<<< HEAD
         pass
+=======
+        pass
+>>>>>>> 0e89e1f2194e0fe4a117b83e6eccc52881dd93a1
